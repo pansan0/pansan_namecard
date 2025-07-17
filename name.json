@@ -1,9 +1,9 @@
 [
   {
-    "name": "Nattawut Petchurai",
+    "name": "Pansan Charoenwech",
     "title": "Computer Science Student",
     "phone": "+66 123456789",
-    "email": "nattawut@example.com"
+    "email": "Pansan.c@ku.th"
   },
   {
     "name": "Piyasak Prasittinawa",
@@ -12,9 +12,9 @@
     "email": "Piyasak.pr@ku.th"
   },
   {
-    "name": "Kamontat Inthawong",
+    "name": "Mr.Akachai ",
     "title": "Computer Science Professor",
-    "phone": "+66 958486471",
-    "email": "Kamontat.i@ku.th"
+    "phone": "+66 110110001",
+    "email": "akachai@gmail.com"
   }
 ]
