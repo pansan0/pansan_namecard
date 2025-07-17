@@ -1,24 +1,20 @@
 [
   {
-    "name": "Pansan Charoenwech",
+    "name": "Nattawut Petchurai",
     "title": "Computer Science Student",
-    "phone": "+66 63 863 4630",
-    "email": "Pansan.c@ku.th"
+    "phone": "+66 123456789",
+    "email": "nattawut@example.com"
   },
- [
   {
     "name": "Piyasak Prasittinawa",
     "title": "Computer Science Professor",
     "phone": "+66 929470655",
-    "email": "Piyasak.pr@ku.th",
-    "image": 
+    "email": "Piyasak.pr@ku.th"
   },
   {
     "name": "Kamontat Inthawong",
     "title": "Computer Science Professor",
     "phone": "+66 958486471",
-    "email": "Kamontat.i@ku.th",
-    "image": 
+    "email": "Kamontat.i@ku.th"
   }
 ]
-
